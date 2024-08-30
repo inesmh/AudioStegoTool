@@ -4,8 +4,8 @@
 Hide text messages in .wav audio files. In the folder there is an example audio to try the functionality. The file to be executed is stegocode.py
 <br /> <br />
 <h3>Skills Learned</h3>
-● How Steganography works
-● Python coding
+● How Steganography works <br />
+● Python coding <br />
 
 <br />
 <h3>Tools Used</h3>
